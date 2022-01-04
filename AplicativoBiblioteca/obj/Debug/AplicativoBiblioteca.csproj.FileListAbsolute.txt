@@ -1,0 +1,11 @@
+c:\users\bruno.fgomes6\documents\visual studio 2015\Projects\AplicativoBiblioteca\AplicativoBiblioteca\bin\Debug\AplicativoBiblioteca.exe.config
+c:\users\bruno.fgomes6\documents\visual studio 2015\Projects\AplicativoBiblioteca\AplicativoBiblioteca\bin\Debug\Database1.mdf
+c:\users\bruno.fgomes6\documents\visual studio 2015\Projects\AplicativoBiblioteca\AplicativoBiblioteca\bin\Debug\Database1_log.ldf
+c:\users\bruno.fgomes6\documents\visual studio 2015\Projects\AplicativoBiblioteca\AplicativoBiblioteca\bin\Debug\AplicativoBiblioteca.exe
+c:\users\bruno.fgomes6\documents\visual studio 2015\Projects\AplicativoBiblioteca\AplicativoBiblioteca\bin\Debug\AplicativoBiblioteca.pdb
+c:\users\bruno.fgomes6\documents\visual studio 2015\Projects\AplicativoBiblioteca\AplicativoBiblioteca\obj\Debug\AplicativoBiblioteca.csprojResolveAssemblyReference.cache
+c:\users\bruno.fgomes6\documents\visual studio 2015\Projects\AplicativoBiblioteca\AplicativoBiblioteca\obj\Debug\AplicativoBiblioteca.Form1.resources
+c:\users\bruno.fgomes6\documents\visual studio 2015\Projects\AplicativoBiblioteca\AplicativoBiblioteca\obj\Debug\AplicativoBiblioteca.Properties.Resources.resources
+c:\users\bruno.fgomes6\documents\visual studio 2015\Projects\AplicativoBiblioteca\AplicativoBiblioteca\obj\Debug\AplicativoBiblioteca.csproj.GenerateResource.Cache
+c:\users\bruno.fgomes6\documents\visual studio 2015\Projects\AplicativoBiblioteca\AplicativoBiblioteca\obj\Debug\AplicativoBiblioteca.exe
+c:\users\bruno.fgomes6\documents\visual studio 2015\Projects\AplicativoBiblioteca\AplicativoBiblioteca\obj\Debug\AplicativoBiblioteca.pdb
